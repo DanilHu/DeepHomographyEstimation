@@ -5,6 +5,7 @@
 - [Deep image homography estimation(2016)](./doc/DeepHomographyEstimation.md)
 - [A view-free image stitching network based on global homography(2020)](./doc/VFISnet.md)
 - [Real-Time Image Stitching with Convolutional Neural Networks](./doc/Real_Time_Image_Stitching.md)
+- [Learning Edge-Preserved Image Stitching from Large-Baseline Deep Homography](./doc/Learning Edge-Preserved Image Stitching from Large-Baseline Deep Homography.md)
 
 <br/>
 
